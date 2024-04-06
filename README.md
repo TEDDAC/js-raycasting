@@ -6,4 +6,6 @@ It's easy to learn with the [tutorial](https://www.youtube.com/watch?v=vYgIKn7iD
 
 But his algorithm has artefact: fisheye effect. I also wanted to change the resolution. So, I modified the algo to fix it.
 
+You can play with it [here](https://teddac.github.io/js-raycasting/).
+
 ![Screenshot](./screenshot.png)
